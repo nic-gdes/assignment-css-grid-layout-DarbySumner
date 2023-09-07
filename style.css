@@ -33,12 +33,11 @@
 
 }
 
-
-
 .item5 {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
+
 }
 
 .item5 > div {
@@ -47,3 +46,4 @@
   padding: 1em;
 
 }
+
